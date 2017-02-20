@@ -5,4 +5,8 @@ verify_ssl = true
 [packages]
 numpy = "*"
 pandas = "*"
+scipy = "*"
+scikit-learn = "*"
+matplotlib = "*"
+seaborn = "*"
 jupyter = "*"
