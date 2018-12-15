@@ -4,8 +4,8 @@ Assignments for the [Springboard](https://www.springboard.com/) [Data Science Ca
 
 Contents:
 
--   [advanced-topics](https://github.com/klane/springboard/tree/master/advanced-topics)
--   [challenges](https://github.com/klane/springboard/tree/master/challenges)
--   [data-wrangling](https://github.com/klane/springboard/tree/master/data-wrangling)
--   [inferential-statistics](https://github.com/klane/springboard/tree/master/inferential-statistics)
--   [machine-learning](https://github.com/klane/springboard/tree/master/machine-learning)
+-   [Advanced Topics](https://github.com/klane/springboard/tree/master/advanced-topics)
+-   [Challenges](https://github.com/klane/springboard/tree/master/challenges)
+-   [Data Wrangling](https://github.com/klane/springboard/tree/master/data-wrangling)
+-   [Inferential Statistics](https://github.com/klane/springboard/tree/master/inferential-statistics)
+-   [Machine Learning](https://github.com/klane/springboard/tree/master/machine-learning)
