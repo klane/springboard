@@ -1,6 +1,6 @@
 # Springboard
 
-Assignments for Springboard's Data Science Career Track program
+Assignments for the [Springboard](https://www.springboard.com/) [Data Science Career Track](https://www.springboard.com/workshops/data-science-career-track) program
 
 Contents:
 
